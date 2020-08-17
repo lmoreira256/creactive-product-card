@@ -14,7 +14,6 @@ Demonstração do app:
 
 🧪 Para testar o site basta acessar o seguinte [link](http://creative-product-card.s3-website-sa-east-1.amazonaws.com).
 
-
 <br>
 
 🙏 Qualquer sugestão e melhoria é muito bem vinda!
